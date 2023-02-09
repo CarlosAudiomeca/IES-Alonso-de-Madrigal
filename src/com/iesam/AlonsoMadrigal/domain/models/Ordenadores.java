@@ -1,4 +1,4 @@
-package com.iesam.AlonsoMadrigal.domain;
+package com.iesam.AlonsoMadrigal.domain.models;
 
 public class Ordenadores extends Aula{
     private Integer ordenadores;
